@@ -22,3 +22,15 @@
     bottom: 4px;
     right: 51px;
   }
+  .phone{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+    font-size: 26px;
+    padding: 4px 6px;
+    background-color: #ffffff12;
+    opacity: 0.5;
+
+  }
